@@ -1,0 +1,7 @@
+library(targets)
+library(tarchetypes)
+library(frictionless)
+library(here)
+library(sf)
+library(dplyr)
+library(ggplot2)
